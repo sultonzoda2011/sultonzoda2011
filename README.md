@@ -1,91 +1,122 @@
-# Sultonzoda Abdulloh
-### Frontend Developer • UI Engineer • React / Next.js Specialist
+<!-- ====== BANNER ====== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sultonzoda%20Abdulloh&desc=Frontend%20Developer%20in%20Progress" />
+</p>
 
-<img src="https://i.pinimg.com/originals/e0/32/09/e03209d296ba8b6e770b0d08f5d2140b.gif" alt="Violet Animation" width="100%">
+<p align="center">
+  Talaba & Frontend Developer from Tajikistan<br/>
+  HTML • CSS • JavaScript • TypeScript • React • Next.js
+</p>
 
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=8A2BE2&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullo-sultonzoda-75a4ab3a2?trk=contact-info)
-[![GitHub](https://img.shields.io/static/v1?label=GitHub&message=Follow&color=8A2BE2&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sultonzoda2011)
-[![Gmail](https://img.shields.io/static/v1?label=Gmail&message=Contact&color=8A2BE2&style=for-the-badge&logo=gmail&logoColor=white)](mailto:sultonzoda2011@gmail.com)
+<p align="center">
+  <a href="https://mail.google.com/mail/u/0/#inbox">
+    <img src="https://img.shields.io/badge/Email-Gmail-c14438?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abdullo-sultonzoda-75a4ab3a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+ <a href="https://t.me/sultonzoda_abdulloh">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png"
+    alt="Telegram"
+    width="40"
+  />
+</a>
 
-React • Next.js • TypeScript • Redux Toolkit • Tailwind CSS • i18n • Motion
-
----
-## 👋 About Me
-I am a **frontend-focused developer** specializing in building **complex, interactive, and scalable web interfaces**.
-My work centers on:
-- modern React & Next.js architecture
-- advanced UI state management
-- animations and micro-interactions
-- multilingual applications
-- clean, maintainable frontend systems
-I enjoy transforming complex product ideas into **clear, responsive, and high-performance user experiences**.
-
----
-## 🔭 Current Focus
-- Advanced frontend architecture with **Next.js App Router**
-- UI state management with **Redux Toolkit & React Query**
-- Internationalization (i18next)
-- Authentication flows (JWT, cookies — frontend side)
-- Motion-driven UI and micro-interactions
-- Clean UI systems using Tailwind + Radix
+</p>
 
 ---
-## 🧠 Core Frontend Expertise
-- React & Next.js application architecture
-- TypeScript-first development
-- Complex UI state & async data handling
-- Authentication & role-based UI logic
-- Responsive, accessible UI design
-- Animation & interaction design
-- Frontend performance optimization
+
+## 👨‍💻 About Me
+
+I am a **student focused on frontend development**.
+I enjoy building **interactive, responsive, and user-friendly web applications** using modern web technologies.
 
 ---
-## 🛠 Tech Stack
-### Languages
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
-### Frontend
-- React 19
-- Next.js (App Router)
-- Redux Toolkit
-- React Query
-- Tailwind CSS
-- Radix UI
-- Framer Motion / Motion
-- i18next
-### Tooling
-- Git & GitHub
-- Vite
-- ESLint
-- npm / pnpm
-- Figma (UI implementation)
+
+## 🎯 What I’m Looking For
+
+- Frontend internship or junior frontend opportunities
+- Real-world projects to gain experience
+- Collaboration with other developers
+- Continuous learning and growth in frontend engineering
 
 ---
-## 📌 Featured Projects
-### 🧠 SkillCheck (Frontend)
-A feature-rich frontend application with:
-- authentication & registration
-- roles and ranking system
-- leaderboard
-- multilingual UI
-- animated and responsive design
-Built with **Next.js, TypeScript, Redux Toolkit, React Query, Tailwind CSS**.
 
-### 🎮 Pixel Runner
-Neon cyberpunk endless runner game for the browser.
-Focus on performance, canvas rendering, and game logic.
+## 💡 Frontend Philosophy
+
+- Clean and readable code over complexity
+- UI should be simple, fast, and accessible
+- Responsive design is not optional
+- Learning never stops in frontend development
 
 ---
+
 ## 🌍 Languages
-- English — Intermediate
-- Russian — Fluent
-- Tajik — Native
+
+- 🇬🇧 English – Intermediate
+- 🇷🇺 Russian – Intermediate
 
 ---
-## 🌟 Vision
-Frontend development is not just about visuals.
-It is about **architecture, clarity, interaction, and experience**.
-Great UI is invisible — it simply feels right.
-My goal is to engineer interfaces that are fast, intuitive, and scalable.
+
+## 🔭 Currently
+
+- Practicing **React** and **Next.js**
+- Building personal frontend projects
+- Improving UI/UX and clean code skills
+- Learning advanced JavaScript & TypeScript patterns
+
+---
+
+## 📚 Learning Now
+
+- Advanced React patterns
+- Next.js App Router
+- TypeScript best practices
+- UI/UX fundamentals
+
+---
+
+## 🧠 Core Skills
+
+- HTML, CSS, JavaScript, TypeScript
+- React & Next.js
+- Responsive design & accessibility
+- Component-based UI development
+- Problem-solving & frontend best practices
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,git,github" />
+</p>
+
+---
+
+## 📌 Projects & Learning
+
+- Personal websites and UI components
+- Small interactive apps with React & Next.js
+- Writing clean, maintainable, and scalable frontend code
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KosimovM&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <!-- GitHub streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KosimovM&theme=radical&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Frontend is my focus — building, learning, and growing as a developer.</sub><br/>
+  <sub>Focused on frontend today — building the future step by step.</sub>
+</p>
