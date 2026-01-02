@@ -15,11 +15,11 @@
   <a href="https://www.linkedin.com/in/abdullo-sultonzoda-75a4ab3a2/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
- <a href="https://t.me/sultonzoda_abdulloh">
+<a href="https://t.me/sultonzoda_abdulloh" target="_blank">
   <img
-    src=""
+    src="https://img.shields.io/badge/Telegram-Profile-0088CC?style=flat&logo=telegram&logoColor=white"
     alt="Telegram"
-    width="40"
+    width="120"
   />
 </a>
 
@@ -103,13 +103,7 @@ I enjoy building **interactive, responsive, and user-friendly web applications**
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KosimovM&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
   <!-- GitHub streak stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KosimovM&theme=radical&hide_border=true" />
 </p>
