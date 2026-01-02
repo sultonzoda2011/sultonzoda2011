@@ -104,8 +104,7 @@ I enjoy building **interactive, responsive, and user-friendly web applications**
 ---
 
 
-  <!-- GitHub streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KosimovM&theme=radical&hide_border=true" />
+
 </p>
 
 ---
