@@ -1,121 +1,90 @@
-<!-- ===== HERO ===== -->
+<!-- ====== BANNER ====== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=Sultonzoda%20Abdulloh&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sultonzoda%20Abdulloh&desc=Frontend%20Developer%20in%20Progress" />
 </p>
 
 <p align="center">
-  <b>Frontend Developer from Tajikistan 🇹🇯</b><br/>
-  Building modern, fast and scalable web applications
+  Frontend Developer from Tajikistan<br/>
+  HTML • CSS • JavaScript • TypeScript • React • Next.js
 </p>
 
----
-
-<!-- ===== SOCIALS ===== -->
-
 <p align="center">
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-c14438?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://mail.google.com/mail/u/0/#inbox">
+    <img src="https://img.shields.io/badge/Email-Gmail-c14438?style=flat&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/abdullo-sultonzoda-75a4ab3a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://t.me/sultonzoda_abdulloh">
-    <img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram"/>
+  <a href="https://t.me/sultonzoda_abdulloh" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Profile-0088CC?style=flat&logo=telegram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I am a **frontend-focused developer** passionate about building:
-- modern UI systems
-- scalable React applications
-- clean and maintainable codebases
-
-I focus on **performance, UX, and architecture clarity**.
+I am a student focused on frontend development.  
+I enjoy building interactive, responsive, and user-friendly web applications using modern technologies.
 
 ---
 
-## 📊 GitHub Analytics
+## 🎯 Goals
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+- Frontend internship or junior frontend position
+- Real-world project experience
+- Collaboration with developers
+- Continuous growth in frontend engineering
 
 ---
 
-## 🧠 Tech Stack
+## 🔭 Currently Working On
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,git,github,vite" />
-</p>
+- Practicing React and Next.js
+- Building personal frontend projects
+- Improving UI/UX and clean code skills
+- Learning advanced JavaScript & TypeScript patterns
 
 ---
 
-## 📌 Featured Projects
+## 📚 Learning Now
 
-> Replace links with your real repositories
-
-### 🔹 Project 1 — SaaS Dashboard
-- React + TypeScript
-- Authentication + protected routes
-- Role-based UI system
-
-### 🔹 Project 2 — E-commerce UI
+- Advanced React patterns
 - Next.js App Router
-- Responsive design
-- Cart & product filtering
-
-### 🔹 Project 3 — Portfolio Website
-- Modern UI/UX
-- Animations (Framer Motion)
-- SEO optimized
+- TypeScript best practices
+- UI/UX fundamentals
 
 ---
 
-## 📈 Activity Graph
+## 🧠 Core Skills
+
+- HTML, CSS, JavaScript, TypeScript
+- React & Next.js
+- Responsive design & accessibility
+- Component-based architecture
+- Problem-solving & clean code
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,git,github" />
 </p>
 
 ---
 
-## 🎯 Current Focus
+## 📌 Projects
 
-- Advanced React architecture patterns
-- Next.js App Router (Server Components)
-- Performance optimization
-- UI/UX engineering
-
----
-
-## 🧩 Developer Philosophy
-
-- Simplicity > complexity
-- Reusable components > duplication
-- Performance is a feature
-- Clean code is a long-term investment
+- Personal websites and UI components
+- Small interactive apps with React & Next.js
+- Focus on clean and scalable frontend code
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
-
-<p align="center">
-  <sub>Building step by step — from fundamentals to production-level frontend systems.</sub>
+  <sub>Frontend is my focus — building, learning, and improving step by step.</sub>
 </p>
