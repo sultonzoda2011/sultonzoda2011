@@ -1,79 +1,121 @@
- <!-- ====== BANNER ====== -->
+<!-- ===== HERO ===== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sultonzoda%20Abdulloh&desc=Frontend%20Developer%20in%20Progress" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=Sultonzoda%20Abdulloh&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js" />
 </p>
+
 <p align="center">
-  Talaba & Frontend Developer from Tajikistan<br/>
-  HTML • CSS • JavaScript • TypeScript • React • Next.js
+  <b>Frontend Developer from Tajikistan 🇹🇯</b><br/>
+  Building modern, fast and scalable web applications
 </p>
+
+---
+
+<!-- ===== SOCIALS ===== -->
+
 <p align="center">
-  <a href="https://mail.google.com/mail/u/0/#inbox">
-    <img src="https://img.shields.io/badge/Email-Gmail-c14438?style=flat&logo=gmail&logoColor=white"/>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-c14438?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/abdullo-sultonzoda-75a4ab3a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-<a href="https://t.me/sultonzoda_abdulloh" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Telegram-Profile-0088CC?style=flat&logo=telegram&logoColor=white"
-    alt="Telegram"
-    width="120"
-  />
-</a>
+
+  <a href="https://t.me/sultonzoda_abdulloh">
+    <img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram"/>
+  </a>
 </p>
+
 ---
-## 👨‍💻 About Me
-I am a Sultonzoda Abdulloh student focused on frontend development**.
-I enjoy building **interactive, responsive, and user-friendly web applications** using modern web technologies.
+
+## 🚀 About Me
+
+I am a **frontend-focused developer** passionate about building:
+- modern UI systems
+- scalable React applications
+- clean and maintainable codebases
+
+I focus on **performance, UX, and architecture clarity**.
+
 ---
-## 🎯 What I’m Looking For
-- Frontend internship or junior frontend opportunities
-- Real-world projects to gain experience
-- Collaboration with other developers
-- Continuous learning and growth in frontend engineering
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
-## 💡 Frontend Philosophy
-- Clean and readable code over complexity
-- UI should be simple, fast, and accessible
-- Responsive design is not optional
-- Learning never stops in frontend development
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
-## 🌍 Languages
-- 🇬🇧 English – Intermediate
-- 🇷🇺 Russian – Intermediate
+
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,git,github,vite" />
+</p>
+
 ---
-## 🔭 Currently
-- Practicing **React** and **Next.js**
-- Building personal frontend projects
-- Improving UI/UX and clean code skills
-- Learning advanced JavaScript & TypeScript patterns
----
-## 📚 Learning Now
-- Advanced React patterns
+
+## 📌 Featured Projects
+
+> Replace links with your real repositories
+
+### 🔹 Project 1 — SaaS Dashboard
+- React + TypeScript
+- Authentication + protected routes
+- Role-based UI system
+
+### 🔹 Project 2 — E-commerce UI
 - Next.js App Router
-- TypeScript best practices
-- UI/UX fundamentals
+- Responsive design
+- Cart & product filtering
+
+### 🔹 Project 3 — Portfolio Website
+- Modern UI/UX
+- Animations (Framer Motion)
+- SEO optimized
+
 ---
-## 🧠 Core Skills
-- HTML, CSS, JavaScript, TypeScript
-- React & Next.js
-- Responsive design & accessibility
-- Component-based UI development
-- Problem-solving & frontend best practices
----
-## 🛠 Tech Stack
+
+## 📈 Activity Graph
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,git,github" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
 </p>
+
 ---
-## 📌 Projects & Learning
-- Personal websites and UI components
-- Small interactive apps with React & Next.js
-- Writing clean, maintainable, and scalable frontend code
+
+## 🎯 Current Focus
+
+- Advanced React architecture patterns
+- Next.js App Router (Server Components)
+- Performance optimization
+- UI/UX engineering
+
 ---
-</p>
+
+## 🧩 Developer Philosophy
+
+- Simplicity > complexity
+- Reusable components > duplication
+- Performance is a feature
+- Clean code is a long-term investment
+
 ---
+
 <p align="center">
-  <sub>Frontend is my focus — building, learning, and growing as a developer.</sub><br/>
-  <sub>Focused on frontend today — building the future step by step.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <sub>Building step by step — from fundamentals to production-level frontend systems.</sub>
 </p>
