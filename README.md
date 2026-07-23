@@ -1,23 +1,20 @@
 <!-- ====== BANNER ====== -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sultonzoda%20Abdulloh&desc=Frontend%20Developer%20in%20Progress" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sultonzoda%20Abdulloh&fontSize=50&fontColor=ffffff&desc=Fullstack%20Developer%20|%20React%20%C2%B7%20TypeScript%20%C2%B7%20NestJS%20%C2%B7%20Prisma&descSize=18&descAlign=50&descAlignY=75&animation=fadeIn" />
 </p>
 
 <p align="center">
-  Frontend Developer from Tajikistan<br/>
-  HTML • CSS • JavaScript • TypeScript • React • Next.js
+  Fullstack Developer from Tajikistan<br/>
+  React • TypeScript • Redux • NestJS • Prisma • Tailwind CSS
 </p>
 
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/#inbox">
     <img src="https://img.shields.io/badge/Email-Gmail-c14438?style=flat&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://www.linkedin.com/in/abdullo-sultonzoda-75a4ab3a2/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://t.me/sultonzoda_abdulloh" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Profile-0088CC?style=flat&logo=telegram&logoColor=white"/>
   </a>
@@ -26,43 +23,40 @@
 ---
 
 ## 👨‍💻 About Me
-
-I am a student focused on frontend development.  
-I enjoy building interactive, responsive, and user-friendly web applications using modern technologies.
+I am a student focused on fullstack development.
+I enjoy building fast, scalable, and user-friendly web applications — from interactive frontends to reliable backend APIs.
 
 ---
 
 ## 🎯 Goals
-
-- Frontend internship or junior frontend position
+- Fullstack internship or junior developer position
 - Real-world project experience
 - Collaboration with developers
-- Continuous growth in frontend engineering
+- Continuous growth in fullstack engineering
 
 ---
 
 ## 🔭 Currently Working On
-
-- Practicing React and Next.js
-- Building personal frontend projects
+- Practicing React and NestJS together in fullstack projects
+- Building REST APIs with Prisma & PostgreSQL
 - Improving UI/UX and clean code skills
-- Learning advanced JavaScript & TypeScript patterns
+- Learning advanced TypeScript patterns
 
 ---
 
 ## 📚 Learning Now
-
 - Advanced React patterns
-- Next.js App Router
+- NestJS architecture & best practices
+- Prisma ORM & database design
 - TypeScript best practices
-- UI/UX fundamentals
 
 ---
 
 ## 🧠 Core Skills
-
 - HTML, CSS, JavaScript, TypeScript
-- React & Next.js
+- React & Redux
+- NestJS & Prisma
+- REST API design
 - Responsive design & accessibility
 - Component-based architecture
 - Problem-solving & clean code
@@ -70,21 +64,20 @@ I enjoy building interactive, responsive, and user-friendly web applications usi
 ---
 
 ## 🛠 Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nestjs,prisma,postgres,tailwind,git,github" />
 </p>
 
 ---
 
 ## 📌 Projects
-
-- Personal websites and UI components
-- Small interactive apps with React & Next.js
-- Focus on clean and scalable frontend code
+- Personal fullstack web applications
+- REST APIs built with NestJS & Prisma
+- Interactive UIs with React & Redux
+- Focus on clean and scalable end-to-end code
 
 ---
 
 <p align="center">
-  <sub>Frontend is my focus — building, learning, and improving step by step.</sub>
+  <sub>Fullstack is my focus — building, learning, and improving step by step.</sub>
 </p>
