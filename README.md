@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  Fullstack Developer from Tajikistan<br/>
+  Fullstack Developer from Tajikistan · Junior → Middle level<br/>
   React • TypeScript • Redux • NestJS • Prisma • Tailwind CSS
 </p>
 
@@ -23,13 +23,19 @@
 ---
 
 ## 👨‍💻 About Me
-I am a student focused on fullstack development.
-I enjoy building fast, scalable, and user-friendly web applications — from interactive frontends to reliable backend APIs.
+Fullstack developer approaching Middle level, focused on building fast, scalable, and user-friendly web applications — from interactive frontends to reliable backend APIs.
+
+---
+
+## 🌐 Languages
+- 🇷🇺 Russian — fluent
+- 🇬🇧 English — conversational
+- 🇹🇯 Tajik — native
 
 ---
 
 ## 🎯 Goals
-- Fullstack internship or junior developer position
+- Fullstack internship or junior/middle developer position
 - Real-world project experience
 - Collaboration with developers
 - Continuous growth in fullstack engineering
