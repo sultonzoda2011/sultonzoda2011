@@ -71,7 +71,7 @@ Fullstack developer approaching Middle level, focused on building fast, scalable
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nestjs,prisma,postgres,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nestjs,prisma,postgres,tailwind,vite,docker,git,github,vscode" />
 </p>
 
 ---
