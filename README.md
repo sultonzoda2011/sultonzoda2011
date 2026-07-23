@@ -71,9 +71,15 @@ Fullstack developer approaching Middle level, focused on building fast, scalable
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nestjs,prisma,postgres,tailwind,vite,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nestjs,prisma,postgres,tailwind,vite,nodejs,npm,docker,git,github,vscode,windows" />
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white"/>
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white"/>
+</p>
 ---
 
 ## 📌 Projects
