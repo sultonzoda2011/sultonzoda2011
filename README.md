@@ -43,9 +43,6 @@ A CRM for markets and shops that brings sales, customer debts, inventory, transa
 ### [ClassView](https://github.com/sultonzoda2011/classview) · [Backend](https://github.com/sultonzoda2011/classview-backend)
 A platform for educational centers to manage centers, classrooms, staff, and parents. Built with React, TypeScript, NestJS, Prisma, and PostgreSQL, with role-based access, multilingual UI, and HLS video streaming.
 
-### [Shorts Publisher](https://github.com/sultonzoda2011/shorts-publisher-frontend) · [Backend](https://github.com/sultonzoda2011/shorts-publisher-backend)
-A React and Capacitor client paired with a NestJS API for publishing authorized media to a configured YouTube channel.
-
 ### [Pixel Runner](https://github.com/sultonzoda2011/pixel-runner)
 A browser-based endless runner featuring multiple modes, customization, weather effects, and local save data. [Play online](https://sultonzoda2011.github.io/pixel-runner/).
 
