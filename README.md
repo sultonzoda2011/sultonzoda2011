@@ -30,10 +30,30 @@ I care about maintainable code, thoughtful user experience, and solving concrete
 
 ## Core Stack
 
-- **Frontend:** React, TypeScript, React Router, Redux Toolkit, TanStack Query, Zustand, Tailwind CSS, shadcn/ui
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, React Router, Redux Toolkit, TanStack Query, Zustand, React Hook Form, Zod, Tailwind CSS, shadcn/ui, Vite
 - **Backend:** Node.js, NestJS, REST APIs, Prisma, authentication, role-based access control
 - **Data:** PostgreSQL, relational data modeling, migrations
-- **Quality & Delivery:** Git, GitHub Actions, Playwright, automated checks, Capacitor for Android
+- **Quality & Delivery:** Git, GitHub Actions, Playwright, Docker, Capacitor for Android
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nestjs,prisma,postgres,tailwind,vite,nodejs,npm,docker,git,github,vscode,windows" alt="HTML, CSS, JavaScript, TypeScript, React, Redux, NestJS, Prisma, PostgreSQL, Tailwind CSS, Vite, Node.js, npm, Docker, Git, GitHub, VS Code, Windows" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white" alt="React Router" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=flat&logo=react&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white" alt="React Hook Form" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white" alt="Zod" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white" alt="Capacitor" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+---
 
 ## Featured Projects
 
