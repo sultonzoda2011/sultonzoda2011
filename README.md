@@ -78,6 +78,9 @@ A CRM for markets and shops that brings sales, customer debts, inventory, transa
 ### [ClassView](https://github.com/sultonzoda2011/classview) · [Backend](https://github.com/sultonzoda2011/classview-backend)
 A platform for educational centers to manage centers, classrooms, staff, and parents. Built with React, TypeScript, NestJS, Prisma, and PostgreSQL, with role-based access, multilingual UI, and HLS video streaming.
 
+### NIZOM CRM · Private Project 🔒 · [Website](https://nizom.tj)
+Contributing to a CRM platform built for educational centers, courses, and private schools in Tajikistan. The system helps manage students and groups, attendance, tuition payments and debts, teacher schedules, and operational reports. The source code is private.
+
 ### [Pixel Runner](https://github.com/sultonzoda2011/pixel-runner)
 A browser-based endless runner featuring multiple modes, customization, weather effects, and local save data. [Play online](https://sultonzoda2011.github.io/pixel-runner/).
 
