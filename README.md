@@ -37,20 +37,35 @@ I care about maintainable code, thoughtful user experience, and solving concrete
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nestjs,prisma,postgres,tailwind,vite,nodejs,npm,docker,git,github,vscode,windows" alt="HTML, CSS, JavaScript, TypeScript, React, Redux, NestJS, Prisma, PostgreSQL, Tailwind CSS, Vite, Node.js, npm, Docker, Git, GitHub, VS Code, Windows" />
-</p>
+### 01 · Main Stack
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nestjs,nodejs,prisma,postgres,tailwind,capacitor&perline=4" alt="Main stack: TypeScript, React, NestJS, Node.js, Prisma, PostgreSQL, Tailwind CSS, Capacitor" />
+</p>
+
+### 02 · Additional Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux Toolkit" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white" alt="React Router" />
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white" alt="TanStack Query" />
   <img src="https://img.shields.io/badge/Zustand-433E38?style=flat&logo=react&logoColor=white" alt="Zustand" />
   <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white" alt="React Hook Form" />
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white" alt="Zod" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white" alt="Capacitor" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white" alt="Capacitor" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
 </p>
 
 ---
